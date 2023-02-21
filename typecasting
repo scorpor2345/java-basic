@@ -1,0 +1,7 @@
+//typeconversion byte->short->int->float->long->double
+class tepecasting {
+long a=100;
+int b=(int)a;
+System.ou.println(b);
+}
+}
